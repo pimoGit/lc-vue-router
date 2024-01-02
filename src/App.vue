@@ -13,6 +13,7 @@ export default {
 
 <template>
     <HeaderComp />
+    <router-view></router-view>
     <FooterComp />
 </template>
 
