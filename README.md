@@ -5,7 +5,13 @@ STEP LC Router:
  - npm install;
  - pulizia componenti (per option API e creazione nuovi statici [header e footer]);
  - inclusione in App;
-- inserimento componet router in App;
+- inserimento component router in App;
+- creazione page folder e 2 page;
+- creazione router.js;
+- import router in main.js;
+- aggiunta notFound (in pages e router);
+- aggiunta router-links.
+
 
 
 
