@@ -23,8 +23,4 @@ export default {
     </nav>
 </template>
 
-<style lang="scss" scoped>
-.read-the-docs {
-    color: #888;
-}
-</style>
+<style lang="scss" scoped></style>

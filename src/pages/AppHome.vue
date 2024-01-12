@@ -6,7 +6,7 @@ export default {
 
 <template>
     <section>
-        <h2 class="mt-5 mb-3">Homepage</h2>
+        <h2>Homepage</h2>
     </section>
 </template>
 
